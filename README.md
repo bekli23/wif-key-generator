@@ -68,4 +68,4 @@ Stop the script by pressing CTRL+C.
 
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.  Contributions are welcome!
-contactme on telegram https://t.me/bekli23
+contact me on telegram https://t.me/bekli23
