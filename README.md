@@ -65,3 +65,7 @@ Private Key (HEX): 1b2c3d4e5f67890a...
 Public Key: 0252b0c8673488f07dd67a9c5555e78c5e9aca537661438c523bd26ec7ebc1d3c6
 Generation Speed: 1.23 MH/s
 Stop the script by pressing CTRL+C.
+
+Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.  Contributions are welcome!
+contactme on telegram https://t.me/bekli23
