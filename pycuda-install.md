@@ -50,7 +50,6 @@ python setup.py install
 6. Test the Installation
 To verify that pycuda is installed correctly, you can run a simple Python script:
 
-
 import pycuda.autoinit
 import pycuda.driver as drv
 import numpy as np
@@ -73,6 +72,7 @@ c = np.zeros_like(a)
 add(drv.In(a), drv.In(b), drv.Out(c), block=(4, 1, 1))
 
 print("Sum:", c)
+
 If the script runs without errors and prints the correct sum, then pycuda is installed correctly.
 
 Summary
